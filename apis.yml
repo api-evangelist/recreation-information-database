@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://ridb.recreation.gov/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/recreation-information-database-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/recreation-information-database-domain-security.yml
   - type: Website
     url: https://ridb.recreation.gov/
   - type: PublicAPIsListing
